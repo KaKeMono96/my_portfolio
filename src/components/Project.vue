@@ -206,10 +206,10 @@
        <div class="py-3" id="col" data-aos="fade-left">
           <div class="card">
             <div class="imgBx">
-              <img src="../assets/images/simple-music-player.jpg" class="img-thumbnail" />
+              <img src="../assets/images/todolist.jpg" class="img-thumbnail" />
             </div>
             <div class="contentBx">
-              <h2 class="mt-2">Music player</h2>
+              <h2 class="mt-2">To Do List</h2>
               <div class="size mt-1 mb-2">
                 <h3 class="mt-2">usage :</h3>
                 <span> <i class="fa-brands fa-html5 skills__icon"></i></span>
@@ -223,7 +223,7 @@
               </div>
               <div class="btn-project">
                 <a
-                  href="https://kakemono96.github.io/Music_Player_P/"
+                  href="https://react-todo-nu-nine.vercel.app/"
                   target="_blink"
                   >View Detail</a
                 >
@@ -237,12 +237,12 @@
           <div class="card">
             <div class="imgBx">
               <img
-                src="../assets/images/simple-music-player.jpg"
+                src="../assets/images/recipe.jpg"
                 class="img-fluid rounded-1"
               />
             </div>
             <div class="contentBx">
-              <h2>Simple Music Player</h2>
+              <h2>Cooking Recipe Ideas</h2>
               <div class="size mt-1 mb-2">
                 <h3 class="mt-2">usage :</h3>
                 <span> <i class="fa-brands fa-html5 skills__icon"></i></span>
@@ -258,7 +258,7 @@
               </div>
               <div class="btn-project">
                 <a
-                  href="https://621c71a8ae1b82ed2a39a4f7--serene-borg-f36e46.netlify.app/"
+                  href="https://mern-stack-project-client-tau.vercel.app/"
                   target="_blink"
                   >View Detail</a
                 >
